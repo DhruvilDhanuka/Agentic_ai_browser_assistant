@@ -1,0 +1,35 @@
+# Virtual Environment
+venv/
+env/
+.venv
+virtual_env/
+
+# Python cache
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*$py.class
+*.so
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+
+#env file 
+AI-browser-assistant/backend/.env
+
+AI-browser-assistant/backend/credentials.json
+AI-browser-assistant/backend/token.json
+
+AI-browser-assistant/backend/*.db
+
+AI-browser-assistant/backend/venv
